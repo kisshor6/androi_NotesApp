@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Content</string>
+    <string name="hint">Enter your content here..</string>
+    <string name="submit">submit</string>
+</resources>
